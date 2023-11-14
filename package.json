@@ -1,0 +1,25 @@
+{
+  "name": "chk-cli",
+  "version": "1.0.1",
+  "description": "自定义命令行工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "khc1szh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chk4658/chkCli.git"
+  },
+  "author": "khc1szh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chk4658/chkCli/issues"
+  },
+  "bin": {
+    "chk": "bin/index.js"
+  },
+  "homepage": "https://github.com/chk4658/chkCli#readme"
+}
