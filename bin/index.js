@@ -1,3 +1,4 @@
 #!/usr/bin/env node
-console.log(process.argv);
-console.log('hello CLI');
+const program = require('commander')
+
+program.parse(process.argv)
